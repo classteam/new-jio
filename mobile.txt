@@ -1,3 +1,4 @@
 add one.txt
 testing pull
 testing
+commit
