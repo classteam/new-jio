@@ -5,3 +5,4 @@ commit
 changes made by vijay
 download the epository changes to local workspace
 git fetch bring my local copy of remote reository up to date
+fetch
