@@ -1,3 +1,4 @@
 index
 dongling blob
 fsck
+that have sha too
